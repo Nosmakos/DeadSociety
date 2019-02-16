@@ -20,28 +20,6 @@ Found a problem? Use the issues tab above to raise an issue. Please include all 
   • %deadsociety_player_thirst%
 ```
 
-## Adding DeadSociety as a gradle/maven/sbt/leiningen dependency
-
-Apparently there's this neat thing called JitPack  that makes a public maven repo for public Github repos on the fly. According to it, this is all you need to do to add this to your maven project:
-
-	<repositories>
-		<repository>
-		    <id>jitpack.io</id>
-		    <url>https://jitpack.io</url>
-		</repository>
-	</repositories>
-	
-
-	<dependency>
-	    <groupId>com.github.Nosmakos</groupId>
-	    <artifactId>DeadSociety</artifactId>
-	    <version>version</version>
-	</dependency>
-	
-	
-Replace `<version>` with this number: [![](https://jitpack.io/v/Nosmakos/DeadSociety.svg)](https://jitpack.io/#Nosmakos/DeadSociety)
-
-You can also add it to gradle/sbt/leiningen projects: https://jitpack.io/#Nosmakos/DeadSociety
 
 [Development API](https://github.com/Nosmakos/DeadSociety/wiki/Development-API)
 

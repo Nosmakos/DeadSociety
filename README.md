@@ -29,20 +29,21 @@ Apparently there's this neat thing called JitPack  that makes a public maven rep
 ```
 	<repositories>
 		<repository>
-		    <id>jitpack.io</id>
+		    <id>jitpack.io</id
 		    <url>https://jitpack.io</url>
 		</repository>
 	</repositories>```
 	
 Replace <version> number with this number: 
 
- ```
-	<dependency>
-	    <groupId>com.github.TechFortress</groupId>
-	    <artifactId>GriefPrevention</artifactId>
-	    <version>16.7.1</version>
+ 	<dependency>
+	    <groupId>com.github.Nosmakos</groupId>
+	    <artifactId>DeadSociety</artifactId>
+	    <version>-SNAPSHOT</version>
 	</dependency>
-	```
+	
+	
+	
 You can also add it to gradle/sbt/leiningen projects: https://jitpack.io/#TechFortress/GriefPrevention/
 
 ## Support

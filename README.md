@@ -19,6 +19,9 @@ What will happen if society collapses? What would you do if there's no one to he
 Those placeholders are used on the player statistics.
 
 • `%ds_player_kills%`
+
 • `%ds_walker_kills%`
+
 • `%ds_player_deaths%`
+
 • `%ds_kd_ratio%`

@@ -14,7 +14,7 @@ What will happen if society collapses? What would you do if there's no one to he
 
 • [Development API](https://github.com/Nosmakos/DeadSociety/wiki/Development-API)
 
-• Placeholders([PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI/wiki/Placeholders#plugin))
+• Placeholders - ([PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI/wiki/Placeholders#plugin))
  
   > /papi ecloud download Player | /papi ecloud download DeadSociety
    

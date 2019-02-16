@@ -1,10 +1,4 @@
 
-## Support
-
-• [Discord Support](https://discordapp.com/invite/9v7BsVv)
-• [Spigot Discussion](https://www.spigotmc.org/threads/283082/)
-• [Issues Tracker](https://github.com/Nosmakos/DeadSociety/issues)
-
 ## Information
 
 • [Development API](https://github.com/Nosmakos/DeadSociety/wiki/Development-API)
@@ -22,3 +16,9 @@
   • %deadsociety_kd_ratio%
   • %deadsociety_player_thirst%
 ```
+
+## Support
+
+• [Discord Support](https://discordapp.com/invite/9v7BsVv)
+• [Spigot Discussion](https://www.spigotmc.org/threads/283082/)
+• [Issues Tracker](https://github.com/Nosmakos/DeadSociety/issues)

@@ -21,7 +21,7 @@ Found a problem? Use the issues tab above to raise an issue. Please include all 
 ```
 
 
-[Development API](https://github.com/Nosmakos/DeadSociety/wiki/Development-API)
+• [Development API](https://github.com/Nosmakos/DeadSociety/wiki/Development-API)
 
 ## Support
 

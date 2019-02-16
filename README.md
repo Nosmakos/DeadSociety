@@ -26,23 +26,18 @@ Found a problem? Use the issues tab above to raise an issue. Please include all 
 
 Apparently there's this neat thing called JitPack  that makes a public maven repo for public Github repos on the fly. According to it, this is all you need to do to add this to your maven project:
 
-```
 	<repositories>
 		<repository>
-		    <id>jitpack.io</id
+		    <id>jitpack.io</id>
 		    <url>https://jitpack.io</url>
 		</repository>
-	</repositories>```
-	
-Replace <version> number with this number: 
+	</repositories>
 
- 	<dependency>
+	<dependency>
 	    <groupId>com.github.Nosmakos</groupId>
 	    <artifactId>DeadSociety</artifactId>
 	    <version>-SNAPSHOT</version>
 	</dependency>
-	
-	
 	
 You can also add it to gradle/sbt/leiningen projects: https://jitpack.io/#TechFortress/GriefPrevention/
 

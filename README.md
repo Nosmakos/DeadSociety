@@ -30,6 +30,7 @@ Apparently there's this neat thing called JitPack  that makes a public maven rep
 		    <url>https://jitpack.io</url>
 		</repository>
 	</repositories>
+	
 
 	<dependency>
 	    <groupId>com.github.Nosmakos</groupId>

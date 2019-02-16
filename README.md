@@ -22,24 +22,27 @@ Found a problem? Use the issues tab above to raise an issue. Please include all 
   • %deadsociety_player_thirst%
 ```
 
-## Hooking 
-Adding GriefPrevention as a gradle/maven/sbt/leiningen dependency
+## Adding DeadSociety as a gradle/maven/sbt/leiningen dependency
+
 Apparently there's this neat thing called JitPack  that makes a public maven repo for public Github repos on the fly. According to it, this is all you need to do to add this to your maven project:
 
+```
 	<repositories>
 		<repository>
 		    <id>jitpack.io</id>
 		    <url>https://jitpack.io</url>
 		</repository>
-	</repositories>
+	</repositories>```
+	
 Replace <version> number with this number: 
 
+ ```
 	<dependency>
 	    <groupId>com.github.TechFortress</groupId>
 	    <artifactId>GriefPrevention</artifactId>
 	    <version>16.7.1</version>
 	</dependency>
- 
+	```
 You can also add it to gradle/sbt/leiningen projects: https://jitpack.io/#TechFortress/GriefPrevention/
 
 ## Support

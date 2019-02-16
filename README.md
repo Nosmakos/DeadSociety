@@ -16,10 +16,9 @@ What will happen if society collapses? What would you do if there's no one to he
 
 • Placeholders(PlaceholderAPI) 
  
- Expansion download command: /papi ecloud download Player and /papi ecloud download DeadSociety
+  Expansion download command: /papi ecloud download Player and /papi ecloud download DeadSociety
  
-- %ds_player_kills% 
-
-- %ds_walker_kills% 
-- %ds_player_deaths% 
-- %ds_kd_ratio%
+  • %ds_player_kills% 
+  • %ds_walker_kills% 
+  • %ds_player_deaths% 
+  • %ds_kd_ratio%

@@ -6,7 +6,7 @@ What will happen if society collapses? What would you do if there's no one to he
 
 ## Support
 
-- Discord Server
+- Discord Server[Discord Server](https://discordapp.com/invite/9v7BsVv)
 - Spigot Discussion
 - GitHub Issues
 

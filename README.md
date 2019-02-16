@@ -38,6 +38,10 @@ Apparently there's this neat thing called JitPack  that makes a public maven rep
 	    <version>-SNAPSHOT</version>
 	</dependency>
 	
+	
+
+[![](https://jitpack.io/v/Nosmakos/DeadSociety.svg)](https://jitpack.io/#Nosmakos/DeadSociety)
+
 You can also add it to gradle/sbt/leiningen projects: https://jitpack.io/#Nosmakos/DeadSociety
 
 [Development API](https://github.com/Nosmakos/DeadSociety/wiki/Development-API)

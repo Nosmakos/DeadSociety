@@ -20,7 +20,9 @@ What will happen if society collapses? What would you do if there's no one to he
    
  Gives you various placeholders for the player, that triggers the action and also returns information about the specified plugin.
  
+ ```
   • %ds_player_kills% 
   • %ds_walker_kills% 
   • %ds_player_deaths% 
   • %ds_kd_ratio%
+```

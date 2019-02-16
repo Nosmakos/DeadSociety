@@ -6,8 +6,6 @@ Found a problem? Use the issues tab above to raise an issue. Please include all 
 
 ## Information
 
-• [Development API](https://github.com/Nosmakos/DeadSociety/wiki/Development-API)
-
 • Placeholders - ([PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI/wiki/Placeholders#plugin))
  
   > /papi ecloud download Player | /papi ecloud download DeadSociety
@@ -40,6 +38,8 @@ Apparently there's this neat thing called JitPack  that makes a public maven rep
 	</dependency>
 	
 You can also add it to gradle/sbt/leiningen projects: https://jitpack.io/#Nosmakos/DeadSociety
+
+[Development API](https://github.com/Nosmakos/DeadSociety/wiki/Development-API)
 
 ## Support
 

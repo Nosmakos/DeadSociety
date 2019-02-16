@@ -16,7 +16,9 @@ What will happen if society collapses? What would you do if there's no one to he
 
 • Placeholders(PlaceholderAPI) 
  
-  > /papi ecloud download Player and /papi ecloud download DeadSociety
+  > /papi ecloud download Player 
+  > /papi ecloud download DeadSociety
+   
    Gives you various placeholders for the player, that triggers the action and also returns information about the specified plugin.
  
   • %ds_player_kills% 

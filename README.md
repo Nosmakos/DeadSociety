@@ -20,4 +20,5 @@
   • %deadsociety_walker_kills% 
   • %deadsociety_player_deaths% 
   • %deadsociety_kd_ratio%
+  • %deadsociety_player_thirst%
 ```

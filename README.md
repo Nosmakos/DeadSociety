@@ -39,7 +39,7 @@ Apparently there's this neat thing called JitPack  that makes a public maven rep
 	    <version>-SNAPSHOT</version>
 	</dependency>
 	
-You can also add it to gradle/sbt/leiningen projects: https://jitpack.io/#TechFortress/GriefPrevention/
+You can also add it to gradle/sbt/leiningen projects: https://jitpack.io/#Nosmakos/DeadSociety
 
 ## Support
 

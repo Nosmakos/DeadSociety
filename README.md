@@ -14,10 +14,8 @@ What will happen if society collapses? What would you do if there's no one to he
 
 • [Development API](https://github.com/Nosmakos/DeadSociety/wiki/Development-API)
 
-### Placeholders
+• Placeholders:
  
-Placeholders from below are used only on the player ststistics.
-
 - %ds_player_kills% 
 - %ds_walker_kills% 
 - %ds_player_deaths% 

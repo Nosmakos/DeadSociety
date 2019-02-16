@@ -35,11 +35,11 @@ Apparently there's this neat thing called JitPack  that makes a public maven rep
 	<dependency>
 	    <groupId>com.github.Nosmakos</groupId>
 	    <artifactId>DeadSociety</artifactId>
-	    <version>-SNAPSHOT</version>
+	    <version>version</version>
 	</dependency>
 	
 	
-Replace <version> number with this number: [![](https://jitpack.io/v/Nosmakos/DeadSociety.svg)](https://jitpack.io/#Nosmakos/DeadSociety)
+Replace `<version>` with this number: [![](https://jitpack.io/v/Nosmakos/DeadSociety.svg)](https://jitpack.io/#Nosmakos/DeadSociety)
 
 You can also add it to gradle/sbt/leiningen projects: https://jitpack.io/#Nosmakos/DeadSociety
 

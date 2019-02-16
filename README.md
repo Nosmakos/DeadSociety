@@ -9,3 +9,8 @@ What will happen if society collapses? What would you do if there's no one to he
 • [Discord Support](https://discordapp.com/invite/9v7BsVv)
 • [Spigot Discussion](https://www.spigotmc.org/threads/283082/)
 • [Issues Tracker](https://github.com/Nosmakos/DeadSociety/issues)
+
+## Hooking into DeadSociety
+
+• [Development API](https://github.com/Nosmakos/DeadSociety/wiki/Development-API)
+

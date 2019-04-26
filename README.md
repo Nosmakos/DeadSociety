@@ -14,7 +14,7 @@ Found a problem? Use the issues tab above to raise an issue. Please include all 
  
   > Then, /papi ecloud download Player.
   
-  > Test a placeholder of the below by performing `/papi bcparse <Player> <placeholder>`
+  > Select a placeholder from below and test it by performing `/papi bcparse <Player> <placeholder>`
 
  Gives you various placeholders for the player, that triggers the action and also returns information about the specified plugin.
  

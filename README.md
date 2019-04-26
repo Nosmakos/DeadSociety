@@ -7,9 +7,15 @@ Found a problem? Use the issues tab above to raise an issue. Please include all 
 ## Information
 
 • Placeholders - ([PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI/wiki/Placeholders#plugin))
+
+  [+] Before getting started:
+
+  > Perform `/papi list` and see if it contains `deadsociety` on the placeholder hooks registered.
  
-  > /papi ecloud download Player | /papi ecloud download DeadSociety
-   
+  > Then, /papi ecloud download Player.
+  
+  > Test a placeholder of the below by performing `/papi bcparse <Player> <placeholder>
+
  Gives you various placeholders for the player, that triggers the action and also returns information about the specified plugin.
  
  ```

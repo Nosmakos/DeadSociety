@@ -23,7 +23,10 @@ Found a problem? Use the issues tab above to raise an issue. Please include all 
   • %deadsociety_walker_kills% 
   • %deadsociety_player_deaths% 
   • %deadsociety_kd_ratio%
+  • %deadsociety_player_top_place%
 ```
+
+Keep in mind, if a specific placeholder is not working, this is because you're using an older version.
 
 
 • [Development API](https://github.com/Nosmakos/DeadSociety/wiki/Development-API)

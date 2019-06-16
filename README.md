@@ -19,6 +19,7 @@ Found a problem? Use the issues tab above to raise an issue. Please include all 
  Gives you various placeholders for the player, that triggers the action and also returns information about the specified plugin.
  
  ```
+  • %deadsociety_gender%
   • %deadsociety_player_kills% 
   • %deadsociety_walker_kills% 
   • %deadsociety_player_deaths% 

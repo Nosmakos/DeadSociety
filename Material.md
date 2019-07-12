@@ -1,4 +1,4 @@
-Use the left ones, the right ones inside parentheses are the old version material types that can be found based on the item you are trying to find.
+Use the left ones, the right ones inside parentheses are the old version material types(1.11-1.12) that can be found based on the item you are trying to find.
  
     1.13 | 1.11 - 1.12 | Data Types(1.11 - 1.12)
 

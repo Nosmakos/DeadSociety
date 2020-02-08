@@ -1,8 +1,8 @@
 ```diff
 ! NOTICE: Dead Society ownership has been transferred to cindy_k (Spigot) / cindyker (github)
 + Dead Society is being updated to 1.15.2: No new features until we are sure everything runs right!
-- Report any and all issues to https://github.com/cindyker/DeadSociety/issues 
-```
+- Report any and all issues to: 
+```https://github.com/cindyker/DeadSociety/issues
 
 # DeadSociety - Zombie Apocalypse Minecraft Plugin
 

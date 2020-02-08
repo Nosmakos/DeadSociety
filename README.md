@@ -1,3 +1,9 @@
+```diff
++ Let's see if colors appear
+- or not
+! maybe!!
+? perhaps
+```
 
 # DeadSociety - Zombie Apocalypse Minecraft Plugin
 

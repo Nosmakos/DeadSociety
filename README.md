@@ -1,3 +1,9 @@
+```diff
+! NOTICE: Dead Society ownership has been transferred to cindy_k (Spigot) / cindyker (github)
++ Dead Society is being updated to 1.15.2
+- Report any and all issues to: 
+```
+https://github.com/cindyker/DeadSociety/issues
 
 # DeadSociety - Zombie Apocalypse Minecraft Plugin
 
@@ -34,6 +40,6 @@ Keep in mind, if a specific placeholder is not working, this is because you're u
 
 ## Support
 
-• [Discord Support](https://discordapp.com/invite/9v7BsVv)
+• [Discord Support](https://discord.gg/fc95YR3)
 • [Spigot Discussion](https://www.spigotmc.org/threads/283082/)
-• [Issues Tracker](https://github.com/Nosmakos/DeadSociety/issues)
+• [Issues Tracker](https://github.com/cindyker/DeadSociety/issues)
